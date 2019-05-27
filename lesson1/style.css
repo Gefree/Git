@@ -1,0 +1,15 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+wrap {
+	margin: 0 auto;
+}
+p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 52px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 50px;
+	
+}
